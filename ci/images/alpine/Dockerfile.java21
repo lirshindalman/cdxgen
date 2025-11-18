@@ -32,6 +32,7 @@ RUN set -e; \
       gcc \
       git \
       gradle \
+      gcompat \
       g++ \
       make \
       maven \
